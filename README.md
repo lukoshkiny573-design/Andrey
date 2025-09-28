@@ -117,3 +117,8 @@
 
 ---
 © 2025 Андрей Лукoшкин. Все права защищены.
+
+<!-- <h1 style="color: red;">Портфолио Python-разработчика Андрея</h1> -->
+<!-- <h2 style="color: green;">Моя специализация</h2> -->
+
+<link rel="stylesheet" href="style.css">
